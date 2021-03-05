@@ -1,0 +1,21 @@
+In this homework, your ability to:
+Use list methods and indexing
+Use for loops
+Use arithmetic operations
+Use conditionals to control the execution of your program
+will be tested. The problem is as follows:
+
+You are given in the code
+n, a non-negative integer which denotes the number of terms to sum
+x, a numeral. x is the number of numerals you will take from the user as input next, to be used in summation.
+cumulative_sum, a variable which initially is assigned to the value 0.
+You must find the sum of the series f + ef + def + cdef + .. (n terms) and assign the value of the sum to the variable cumulative_sum once you are done. So when print(cumulative_sum) is executed, you should see your result.
+Further specifications are provided below:
+If n is greater than x, you should repeat the numerals you get with the same order you receive them.
+If n is less than x, you won't use all the numerals.
+If n is equal to x, you will use all the numerals but won't go over them again.
+Note: You will take the set of x numerals as input by yourselves, and the input prompt you display for the user will not matter this time.
+
+Important: Do not use things that are not covered in class after 11/11/2020.
+
+Check out the examples below for clarification.
